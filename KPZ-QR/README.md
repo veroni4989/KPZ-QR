@@ -41,11 +41,18 @@ public interface IQrStyle
     string ApplyStyle(SvgQRCode svgQrCode);
     string ApplyStyle(AsciiQRCode asciiQrCode);
 }
+```
+
+---
 
 ## Вигляд форми
+
 (/img/form.png)
 (/img/formhistory.png)
 
+---
+
 ## Автор
+
  - Казмірчук Вероніка Володимирівна
  - ЗІПЗ 23-1
